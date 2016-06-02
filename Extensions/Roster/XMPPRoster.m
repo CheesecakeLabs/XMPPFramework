@@ -43,6 +43,8 @@ enum XMPPRosterFlags
 
 @implementation XMPPRoster
 
+// Test
+
 - (id)init
 {
 	return [self initWithRosterStorage:nil dispatchQueue:NULL];
